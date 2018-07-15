@@ -6,6 +6,9 @@ public class CheckItem {
 		// TODO Auto-generated method stub
 		
 		System.out.println("get the value");
+		
+		
+		System.out.println(5);
 
 	}
 
