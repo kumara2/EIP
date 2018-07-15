@@ -7,7 +7,7 @@ public class CheckItem {
 		
 		System.out.println("get the value");
 		
-		
+		System.out.println("Check");
 		System.out.println(5);
 
 	}
